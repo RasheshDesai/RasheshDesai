@@ -1,18 +1,3 @@
-# 💫 About Me:
-👋🏼 Hi - my name is Rashesh Desai.<br><br>I am a Computer Science student specializing in Data Analytics with hands-on experience in AI, Machine Learning, and Full-Stack Development. Passionate about solving real-world problems using data-driven insights and automation, I have worked on projects ranging from AI-powered object detection to data visualization dashboards.<br><br>💼 Hands-On Experience:<br>1) Software Engineer (Evertz Microsystems): Developed automation scripts, boosting test efficiency by 30%.<br>2) Data Scientist (CAAI – Encore): Built ML models, enhancing business insights & increasing sales by 20%.<br>3) AI Cricket Coach Project: Designed a real-time ball tracking system using YOLO & OpenCV.<br><br>📩 Let’s connect! Always open to discussions on AI, tech trends, and new opportunities.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasheshdesai09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RasheshDesai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rasheshdesai09@gmail.com) 
-
-## 🔧 Contributions:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake.svg" />
-</picture>
-
 # 💻 Tech Stack:
 
 ### Back-end
@@ -26,6 +11,20 @@
 
 ### DevOps / Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasheshdesai09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RasheshDesai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rasheshdesai09@gmail.com) 
+
+## 🔧 Contributions:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rasheshdesai/rasheshdesai/output/github-snake.svg" />
+</picture>
+
+# 💫 About Me:
+👋🏼 Hi - my name is Rashesh Desai.<br><br>I am a Computer Science student specializing in Data Analytics with hands-on experience in AI, Machine Learning, and Full-Stack Development. Passionate about solving real-world problems using data-driven insights and automation, I have worked on projects ranging from AI-powered object detection to data visualization dashboards.<br><br>💼 Hands-On Experience:<br>1) Software Engineer (Evertz Microsystems): Developed automation scripts, boosting test efficiency by 30%.<br>2) Data Scientist (CAAI – Encore): Built ML models, enhancing business insights & increasing sales by 20%.<br>3) AI Cricket Coach Project: Designed a real-time ball tracking system using YOLO & OpenCV.<br><br>📩 Let’s connect! Always open to discussions on AI, tech trends, and new opportunities.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RasheshDesai&limit=5&theme=dark&combine_all_yearly_contributions=true)
