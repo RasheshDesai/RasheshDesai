@@ -39,10 +39,6 @@ AI Cricket Coach Project (Final year Capstone Project): Designed and Deployed a 
 
 📩 Let's connect! Always open to discussions on AI, tech trends, and new opportunities.
 
-
-![](https://github-contributor-stats.vercel.app/api?username=RasheshDesai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=RasheshDesai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
