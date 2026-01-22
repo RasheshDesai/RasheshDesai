@@ -26,7 +26,8 @@
 # 💫 About Me:
 👋🏼 Hi - my name is Rashesh Desai.
 I am a Computer Science student specialized in Data Analytics with hands-on experience in AI, Machine Learning, and Full-Stack Development. Passionate about solving real-world problems using data-driven insights and automation, I have worked on projects ranging from AI-powered object detection to data visualization dashboards.
-💼 Hands-On Experience:
+
+### 💼 Hands-On Experience:
 
 Data Analyst (CattleScan): Currently leveraging data analytics to drive insights in livestock management and agricultural technology.
 Software Engineer (Evertz Microsystems): Developed automation scripts, boosting test efficiency by 30%.
