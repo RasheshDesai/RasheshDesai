@@ -29,13 +29,13 @@ I am a Computer Science student specialized in Data Analytics with hands-on expe
 
 ### 💼 Hands-On Experience:
 
-Data Analyst (CattleScan): Currently leveraging data analytics to drive insights in livestock management and agricultural technology.
+-> Data Analyst (CattleScan): Currently leveraging data analytics to drive insights in livestock management and agricultural technology.
 
-Software Engineer (Evertz Microsystems): Developed automation scripts, boosting test efficiency by 30%.
+-> Software Engineer (Evertz Microsystems): Developed automation scripts, boosting test efficiency by 30%.
 
-Data Scientist (CAAI – Encore): Built ML models, enhancing business insights & increasing sales by 20%.
+-> Data Scientist (CAAI – Encore): Built ML models, enhancing business insights & increasing sales by 20%.
 
-AI Cricket Coach Project (Final year Capstone Project): Designed and Deployed a real-time ball tracking system using YOLO & OpenCV.
+-> AI Cricket Coach Project (Final year Capstone Project): Designed and Deployed a real-time ball tracking system using YOLO & OpenCV.
 
 📩 Let's connect! Always open to discussions on AI, tech trends, and new opportunities.
 
